@@ -1,0 +1,14 @@
+D:\DELOVAYA_POPKA\bigtimp_u_popova\laBUTT_1\Asserver\bin\Debug\netcoreapp3.1\Asserver.exe
+D:\DELOVAYA_POPKA\bigtimp_u_popova\laBUTT_1\Asserver\bin\Debug\netcoreapp3.1\Asserver.deps.json
+D:\DELOVAYA_POPKA\bigtimp_u_popova\laBUTT_1\Asserver\bin\Debug\netcoreapp3.1\Asserver.runtimeconfig.json
+D:\DELOVAYA_POPKA\bigtimp_u_popova\laBUTT_1\Asserver\bin\Debug\netcoreapp3.1\Asserver.runtimeconfig.dev.json
+D:\DELOVAYA_POPKA\bigtimp_u_popova\laBUTT_1\Asserver\bin\Debug\netcoreapp3.1\Asserver.dll
+D:\DELOVAYA_POPKA\bigtimp_u_popova\laBUTT_1\Asserver\bin\Debug\netcoreapp3.1\Asserver.pdb
+D:\DELOVAYA_POPKA\bigtimp_u_popova\laBUTT_1\Asserver\obj\Debug\netcoreapp3.1\Asserver.csproj.AssemblyReference.cache
+D:\DELOVAYA_POPKA\bigtimp_u_popova\laBUTT_1\Asserver\obj\Debug\netcoreapp3.1\Asserver.GeneratedMSBuildEditorConfig.editorconfig
+D:\DELOVAYA_POPKA\bigtimp_u_popova\laBUTT_1\Asserver\obj\Debug\netcoreapp3.1\Asserver.AssemblyInfoInputs.cache
+D:\DELOVAYA_POPKA\bigtimp_u_popova\laBUTT_1\Asserver\obj\Debug\netcoreapp3.1\Asserver.AssemblyInfo.cs
+D:\DELOVAYA_POPKA\bigtimp_u_popova\laBUTT_1\Asserver\obj\Debug\netcoreapp3.1\Asserver.csproj.CoreCompileInputs.cache
+D:\DELOVAYA_POPKA\bigtimp_u_popova\laBUTT_1\Asserver\obj\Debug\netcoreapp3.1\Asserver.dll
+D:\DELOVAYA_POPKA\bigtimp_u_popova\laBUTT_1\Asserver\obj\Debug\netcoreapp3.1\Asserver.pdb
+D:\DELOVAYA_POPKA\bigtimp_u_popova\laBUTT_1\Asserver\obj\Debug\netcoreapp3.1\Asserver.genruntimeconfig.cache
